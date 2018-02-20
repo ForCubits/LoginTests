@@ -1,16 +1,16 @@
 # LoginTests
 
-##Tests for Cubits company
+## Tests for Cubits company
 
-##Technology:
+## Technology:
 Capybara
 Ruby
 Cucumber
 
-##Feature:
+## Feature:
 Login page
 
-##How to run:
+## How to run:
 1. clone repository
 2. bundle install
 3. bundle exec cucumber
